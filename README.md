@@ -21,6 +21,7 @@ Envío de foto de perfil de usuario, en base64
 ![enter image description here](https://bimagine.com.ar/cv/questionnaire/3.png)
 
 Uso de sockets cliente
+
 ![enter image description here](https://bimagine.com.ar/cv/questionnaire/4.png)
 
 Control de acceso usando *interceptors* en peticiones para inyectar autorización en cabecera de petición:
